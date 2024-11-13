@@ -4,11 +4,6 @@
 <h3 align="left">¡Apasionado por la programación y la tecnología! 🚀</h3> 
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br> 
-  
-<div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-</div>
 
 <div align="left"> 
   <h3>👨🏽‍💻 Acerca de mí:</h3> 
@@ -22,12 +17,7 @@
   <br> <p>• 📫 Cómo contactarme: <b>calcocerpari@gmail.com</b></p> 
 </div><br>
 
-<div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-</div>
-    
----
+<p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br> 
 
 <h2>Conocimientos</h2>
 
@@ -130,10 +120,7 @@
 <!--/skills --->
 <br>
 
-<div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-</div>
+<p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br> 
 
 <div>
   <h3>📱 Redes Sociales:</h3><br>
