@@ -1,7 +1,7 @@
 <img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
     
 <h1 align="left">Hola 👋🏽, soy Carlos Alcocer</h1> 
-<h3 align="left">¡Apasionado por la programación y la tecnología! 🚀</h3> 
+<h3 align="left">¡Aapasionado de la tecnología, la programación y la fotografía. 🚀💻📸 Ingeniero de Sistemas, crea aplicaciones, diseña webs 🌐 y explora la inteligencia artificial 🤖. Ama capturar momentos únicos 📷✨, contar historias a través de videos 🎥🎙️ y desarrollar ideas innovadoras que mejoren la vida de las personas. 💡🌟! 🚀</h3> 
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br> 
 
